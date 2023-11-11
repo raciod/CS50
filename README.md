@@ -15,13 +15,14 @@ Thank you for joining me on this coding adventure!
 
 ## I code with
 
-1. JavaScript
-2. Python
-3. SQL
-4. HTML
-5. CSS
-6. JavaScript
-7. Flask
+1. C
+2. JavaScript
+3. Python
+4. SQL
+5. HTML
+6. CSS
+7. JavaScript
+8. Flask
 
 ## Problem Sets
 
@@ -32,6 +33,10 @@ Thank you for joining me on this coding adventure!
   - [population.c](population.c)
 - Problem Set 2:
   - [bulbs.c](bulbs.c)
+- Problem Set 3:
+  - [plurality.c](plurality.c)
+  - [runoff.c](runoff.c)
+
 
   <!-- Add more problem sets as needed -->
 
