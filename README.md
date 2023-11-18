@@ -36,7 +36,9 @@ Thank you for joining me on this coding adventure!
 - Problem Set 3:
   - [plurality.c](plurality.c)
   - [runoff.c](runoff.c)
+- Problem Set 4:
+  - [filter.c](filter.c)
+  - [recover.c](recover.c)
 
 
-  <!-- Add more problem sets as needed -->
 
